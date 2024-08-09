@@ -1,2 +1,2 @@
 # bookstore-ai
-A Spring-AI and OpenAI ChatGPT-based application that offers interactive and personalized book information, including summaries and recommendations.
+This project leverages Spring-AI and OpenAI's ChatGPT to provide an interactive platform for discovering and learning about books. By integrating advanced AI capabilities, the system delivers personalized book information, including summaries, recommendations, and reviews.
